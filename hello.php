@@ -3,7 +3,7 @@
 <body>
 	<center>
 		<h1>Storing Form data in Database</h1>
-		<form action="tt.php" method="post">
+		<form action="connect.php" method="post">
 			
 <p>
 			<label for="firstName">First Name:</label>
